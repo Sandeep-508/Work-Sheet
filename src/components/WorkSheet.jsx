@@ -1,17 +1,17 @@
 import { useState, useEffect } from 'react';
 import IntroHeader from "./IntroHeader";
-import { January, February, March, April, May, June, July } from '../common/Helper';
+import { January, February, March, April, May, June, July, August } from '../common/Helper';
 import { gitHub, vercel } from '../assets/images/webp/images';
 
 const generateColor = () => `hsl(${Math.random() * 360}, 70%, 60%)`;
 
 const WorkSheet = () => {
-    const monthNames = ["January", "February", "March", "April", "May", "June", "July"];
+    const monthNames = ["January", "February", "March", "April", "May", "June", "July", "August"];
     const currentMonthName = monthNames[new Date().getMonth()];
     const [colors, setColors] = useState(Array(4).fill().map(generateColor));
 
     const [selectedMonth, setSelectedMonth] = useState(currentMonthName);
-    const monthData = { January, February, March, April, May, June, July };
+    const monthData = { January, February, March, April, May, June, July, August };
 
     const HANDLE_MONTH_SELECT = (month) => {
         setSelectedMonth(month);

@@ -35,7 +35,13 @@ import vercel from '../svg/vercel.svg'
 import halseyDerma from './halsey-dermatology.webp'
 import myFeedPage from './my-feed-page.webp'
 import nebulaModel from './nebula-model.webp'
+import cleverTravel from '../png/clever-travel.png'
+import connMadeEasy from '../png/conn-made-easy.png'
+import nextPractice from '../png/next-practice.png'
+import gsap from '../png/gsap.png'
+import emailTemplate from '../png/email-template.png'
+import herbert from '../png/herbert.png'
 
 export {
-    aiPage, aspenAi, buddyBullies, chatApp, chimpzHome, clair, cryptoHome, cuttingEdge, cvHawk, dateProject, decoMaster, digiencySec, digiency, doxAi, eventFree, festiveProfileSecond, festiveProfile, hustlinHardoes, hyperleenNext, iceBlastPro, julianProject, keepSl, lasleVpn, maitreD, nftSee, nftWallet, nobleMind, routerDom, saintShiba, solanaBusiness, travelClub, yourConsultant, gitHub, vercel, nebulaModel, halseyDerma, myFeedPage
+    aiPage, gsap, herbert, emailTemplate, aspenAi, buddyBullies, chatApp, chimpzHome, clair, cryptoHome, cuttingEdge, cvHawk, dateProject, decoMaster, digiencySec, digiency, doxAi, eventFree, festiveProfileSecond, festiveProfile, hustlinHardoes, hyperleenNext, iceBlastPro, julianProject, keepSl, lasleVpn, maitreD, nftSee, nftWallet, nobleMind, routerDom, saintShiba, solanaBusiness, travelClub, yourConsultant, gitHub, vercel, nebulaModel, halseyDerma, myFeedPage, cleverTravel, connMadeEasy, nextPractice
 }

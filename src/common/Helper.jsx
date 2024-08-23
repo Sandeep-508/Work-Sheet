@@ -1,4 +1,4 @@
-import { aiPage, aspenAi, buddyBullies, chatApp, chimpzHome, clair, cryptoHome, cuttingEdge, cvHawk, dateProject, decoMaster, digiency, digiencySec, doxAi, eventFree, festiveProfile, festiveProfileSecond, halseyDerma, hustlinHardoes, hyperleenNext, iceBlastPro, julianProject, keepSl, lasleVpn, maitreD, myFeedPage, nebulaModel, nobleMind, routerDom, saintShiba, solanaBusiness, travelClub, yourConsultant } from "../assets/images/webp/images"
+import { aiPage, aspenAi, buddyBullies, chatApp, chimpzHome, clair, cleverTravel, connMadeEasy, cryptoHome, cuttingEdge, cvHawk, dateProject, decoMaster, digiency, digiencySec, doxAi, emailTemplate, eventFree, festiveProfile, festiveProfileSecond, gsap, halseyDerma, herbert, hustlinHardoes, hyperleenNext, iceBlastPro, julianProject, keepSl, lasleVpn, maitreD, myFeedPage, nebulaModel, nextPractice, nobleMind, routerDom, saintShiba, solanaBusiness, travelClub, yourConsultant } from "../assets/images/webp/images"
 
 export const January = [
     {
@@ -222,5 +222,44 @@ export const July = [
         github_link: "https://github.com/Sandeep-508/router-dom-Practice.git",
         live_link: "https://router-dom-practice.vercel.app/",
         project_img: routerDom,
+    },
+]
+
+export const August = [
+    {
+        project_name: "Clever Travel",
+        github_link: "https://github.com/neharadialcode486/clever-travel.git",
+        live_link: "https://clever-travel-l2yrvol3l-sandeep-508s-projects.vercel.app/",
+        project_img: cleverTravel,
+    },
+    {
+        project_name: "Connections Made Easy",
+        github_link: "https://github.com/Radial-code/connections-made-easy--html.git",
+        live_link: "https://connections-made-easy-html.web.app/",
+        project_img: connMadeEasy,
+    },
+    {
+        project_name: "GSAP",
+        github_link: "https://github.com/Sandeep-508/GSAP.git",
+        live_link: "https://gsap-woad.vercel.app/",
+        project_img: gsap,
+    },
+    {
+        project_name: "Next Practice",
+        github_link: "https://github.com/Sandeep-508/keepSL.git",
+        live_link: "https://next-project-kappa-six.vercel.app/",
+        project_img: nextPractice,
+    },
+    {
+        project_name: "Email Template",
+        github_link: "Not Available",
+        live_link: "Not Available",
+        project_img: emailTemplate,
+    },
+    {
+        project_name: "Herbert Page",
+        github_link: "https://github.com/Ritik-455/herbert.git",
+        live_link: "https://herbert-chi.vercel.app/",
+        project_img: herbert,
     },
 ]
